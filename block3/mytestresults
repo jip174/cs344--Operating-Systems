@@ -1,0 +1,205 @@
+PRE-SCRIPT INFO
+  Grading Script PID: 168588
+  Note: your smallsh will report a different PID when evaluating $$
+Shell Program 
+: BEGINNING
+: : --------------------
+: Using
+: 
+: : : --------------------
+: ls
+: a.txt
+hi
+junk
+junk2
+mytestresults
+newshell.c
+p3testscript
+smallsh
+smallshalsmost.c
+smallsh.c
+: : : --------------------
+: ls
+: : : : --------------------
+: cat
+: a.txt
+hi
+junk
+junk2
+mytestresults
+newshell.c
+p3testscript
+smallsh
+smallshalsmost.c
+smallsh.c
+: : : --------------------
+: wc
+: 10 10 93 junk
+: : : --------------------
+: wc
+: 10 10 93 junk
+: 10 10 86 junk
+: : : --------------------
+: test
+: : exit value 1
+exit value 1
+: : : --------------------
+: wc
+: Can't open file
+: No such file or directory
+: : : --------------------
+: badfile
+: badfile: invalid command 
+: : : --------------------
+: sleep
+: background pid is 170028
+: : : --------------------
+: pkill
+: (Ignore
+: pkill: killing pid 640 failed: Operation not permitted
+pkill: killing pid 1769 failed: Operation not permitted
+pkill: killing pid 3428 failed: Operation not permitted
+pkill: killing pid 5030 failed: Operation not permitted
+pkill: killing pid 10447 failed: Operation not permitted
+pkill: killing pid 13104 failed: Operation not permitted
+pkill: killing pid 14765 failed: Operation not permitted
+pkill: killing pid 15780 failed: Operation not permitted
+pkill: killing pid 21539 failed: Operation not permitted
+pkill: killing pid 27135 failed: Operation not permitted
+pkill: killing pid 32862 failed: Operation not permitted
+pkill: killing pid 38415 failed: Operation not permitted
+pkill: killing pid 39830 failed: Operation not permitted
+pkill: killing pid 42324 failed: Operation not permitted
+pkill: killing pid 43691 failed: Operation not permitted
+pkill: killing pid 49099 failed: Operation not permitted
+pkill: killing pid 54244 failed: Operation not permitted
+pkill: killing pid 55590 failed: Operation not permitted
+pkill: killing pid 59570 failed: Operation not permitted
+pkill: killing pid 64450 failed: Operation not permitted
+pkill: killing pid 65449 failed: Operation not permitted
+pkill: killing pid 70281 failed: Operation not permitted
+pkill: killing pid 74623 failed: Operation not permitted
+pkill: killing pid 75169 failed: Operation not permitted
+pkill: killing pid 80649 failed: Operation not permitted
+pkill: killing pid 85773 failed: Operation not permitted
+pkill: killing pid 91085 failed: Operation not permitted
+pkill: killing pid 95750 failed: Operation not permitted
+pkill: killing pid 96780 failed: Operation not permitted
+pkill: killing pid 101741 failed: Operation not permitted
+pkill: killing pid 107187 failed: Operation not permitted
+pkill: killing pid 107255 failed: Operation not permitted
+pkill: killing pid 109383 failed: Operation not permitted
+pkill: killing pid 109725 failed: Operation not permitted
+pkill: killing pid 112572 failed: Operation not permitted
+pkill: killing pid 118041 failed: Operation not permitted
+pkill: killing pid 118282 failed: Operation not permitted
+pkill: killing pid 118286 failed: Operation not permitted
+pkill: killing pid 118290 failed: Operation not permitted
+pkill: killing pid 118295 failed: Operation not permitted
+pkill: killing pid 120311 failed: Operation not permitted
+pkill: killing pid 123484 failed: Operation not permitted
+pkill: killing pid 125565 failed: Operation not permitted
+pkill: killing pid 128634 failed: Operation not permitted
+pkill: killing pid 132977 failed: Operation not permitted
+pkill: killing pid 134056 failed: Operation not permitted
+pkill: killing pid 135723 failed: Operation not permitted
+pkill: killing pid 135724 failed: Operation not permitted
+pkill: killing pid 139227 failed: Operation not permitted
+pkill: killing pid 144569 failed: Operation not permitted
+pkill: killing pid 144794 failed: Operation not permitted
+pkill: killing pid 144795 failed: Operation not permitted
+pkill: killing pid 144903 failed: Operation not permitted
+pkill: killing pid 149876 failed: Operation not permitted
+pkill: killing pid 155167 failed: Operation not permitted
+pkill: killing pid 155363 failed: Operation not permitted
+pkill: killing pid 159240 failed: Operation not permitted
+pkill: killing pid 160534 failed: Operation not permitted
+pkill: killing pid 160539 failed: Operation not permitted
+pkill: killing pid 160925 failed: Operation not permitted
+pkill: killing pid 161719 failed: Operation not permitted
+pkill: killing pid 164496 failed: Operation not permitted
+pkill: killing pid 164781 failed: Operation not permitted
+pkill: killing pid 165898 failed: Operation not permitted
+pkill: killing pid 167333 failed: Operation not permitted
+pkill: killing pid 170002 failed: Operation not permitted
+pkill: killing pid 170034 failed: Operation not permitted
+pkill: killing pid 172754 failed: Operation not permitted
+pkill: killing pid 173455 failed: Operation not permitted
+pkill: killing pid 177902 failed: Operation not permitted
+pkill: killing pid 183291 failed: Operation not permitted
+pkill: killing pid 184168 failed: Operation not permitted
+pkill: killing pid 188893 failed: Operation not permitted
+pkill: killing pid 193754 failed: Operation not permitted
+pkill: killing pid 196638 failed: Operation not permitted
+pkill: killing pid 196954 failed: Operation not permitted
+pkill: killing pid 198956 failed: Operation not permitted
+pkill: killing pid 202140 failed: Operation not permitted
+pkill: killing pid 204349 failed: Operation not permitted
+pkill: killing pid 205514 failed: Operation not permitted
+pkill: killing pid 209552 failed: Operation not permitted
+pkill: killing pid 211243 failed: Operation not permitted
+pkill: killing pid 213015 failed: Operation not permitted
+pkill: killing pid 213016 failed: Operation not permitted
+pkill: killing pid 215278 failed: Operation not permitted
+pkill: killing pid 220907 failed: Operation not permitted
+pkill: killing pid 221586 failed: Operation not permitted
+pkill: killing pid 226177 failed: Operation not permitted
+pkill: killing pid 232131 failed: Operation not permitted
+pkill: killing pid 238444 failed: Operation not permitted
+pkill: killing pid 240270 failed: Operation not permitted
+pkill: killing pid 248540 failed: Operation not permitted
+pkill: killing pid 249740 failed: Operation not permitted
+pkill: killing pid 250227 failed: Operation not permitted
+pkill: killing pid 252072 failed: Operation not permitted
+pkill: killing pid 254047 failed: Operation not permitted
+pkill: killing pid 254900 failed: Operation not permitted
+pkill: killing pid 255444 failed: Operation not permitted
+pkill: killing pid 260916 failed: Operation not permitted
+pkill: killing pid 262531 failed: Operation not permitted
+pkill: killing pid 266455 failed: Operation not permitted
+pkill: killing pid 271772 failed: Operation not permitted
+pkill: killing pid 276976 failed: Operation not permitted
+pkill: killing pid 280473 failed: Operation not permitted
+pkill: killing pid 282682 failed: Operation not permitted
+pkill: killing pid 283384 failed: Operation not permitted
+pkill: killing pid 287931 failed: Operation not permitted
+pkill: killing pid 293745 failed: Operation not permitted
+pkill: killing pid 299155 failed: Operation not permitted
+pkill: killing pid 304318 failed: Operation not permitted
+pkill: killing pid 308319 failed: Operation not permitted
+pkill: killing pid 308742 failed: Operation not permitted
+pkill: killing pid 309932 failed: Operation not permitted
+pkill: killing pid 313217 failed: Operation not permitted
+pkill: killing pid 315517 failed: Operation not permitted
+pkill: killing pid 320688 failed: Operation not permitted
+pkill: killing pid 326308 failed: Operation not permitted
+child 170028 terminated
+terminated by signal 15
+: : : --------------------
+: : background pid is 170950
+: : child 170950 terminated
+exit value 0
+: : --------------------
+: pwd
+: /nfs/stak/users/phillij6/cs344/b3
+: : : --------------------
+: : : : : --------------------
+: pwd
+: /nfs/stak/users/phillij6
+: : : --------------------
+: mkdir
+echo mkdir testdir168622
+: mkdir testdir168622
+: : : --------------------
+: echo cd testdir168622
+: cd testdir168622
+: : : --------------------
+: pwd
+: /nfs/stak/users/phillij6/testdir168622
+: --------------------
+: : kill -SIGTSTP 168622
+: Mon Feb  8 17:14:21 PST 2021
+: background pid is 175238
+: Mon Feb  8 17:14:21 PST 2021
+: kill -SIGTSTP 168622
+: goodbye 
